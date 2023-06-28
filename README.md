@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently A Sophmore At university studying Computer Science with a Concentration in Machine Learning
+- 🌱 I’m currently A Junior At university studying Computer Science with a Concentration in Machine Learning
 - 👯 I’m looking to collaborate on Game Development
 - 📫 How to reach me: masonscarbropf@gmail.com
 
