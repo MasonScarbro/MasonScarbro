@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&&theme=dracula&langs_count=8&hide=html) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasonScarbro&&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=45,f374ae,363946&langs_count=8&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=45,001B2E,363946&langs_count=8&hide=html)
