@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Game Development
 - 📫 How to reach me: masonscarbropf@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&&theme=dracula&langs_count=8&hide=html) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasonScarbro&&theme=dracula)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasonScarbro&&bg_color=001B2E)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=001B2E&langs_count=8&hide=html)
