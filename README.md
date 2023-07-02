@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: masonscarbropf@gmail.com
 
 <div style="display: flex; flex-wrap: wrap;">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasonScarbro&&bg_color=001B2E)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=001B2E&langs_count=8&hide=html)
+  <img src="https://github-readme-stats.vercel.app/api?username=MasonScarbro&&bg_color=001B2E" alt="GitHub Stats" style="width: 50%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=001B2E&langs_count=8&hide=html" alt="Top Languages" style="width: 50%; height: auto;">
 </div>
