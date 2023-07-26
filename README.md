@@ -14,4 +14,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=MasonScarbro&&bg_color=001B2E" alt="GitHub Stats" style="width: 50%; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=001B2E&langs_count=8&hide=html&show_icons=true" alt="Top Languages" style="width: 50%; height: auto;">
 </div>
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
 
