@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 <div style="display: flex; flex-direction: column; align-items: center;">
-<h1 align="center">Hi 👋, I'm MasonScarbro</h1>
-<h3 align="center">Mason Scarbro</h3>
+    <h1 align="center">Hi 👋, I'm MasonScarbro</h1>
+    <h3 align="center">Mason Scarbro</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=masonscarbro&label=Profile%20views&color=0e75b6&style=flat" alt="masonscarbro" /> </p>
 
