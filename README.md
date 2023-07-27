@@ -10,7 +10,7 @@ Here are some ideas to get you started:
     <h3 align="center">Mason Scarbro</h3>
     <div style="display: flex; justify-content: right; align-items: center; margin: 50px;">
     <!-- Your GitHub stats or other content goes here -->
-    <img src="https://github-readme-stats.vercel.app/api?username=MasonScarbro&&bg_color=001B2E" alt="GitHub Stats" style="width: 50%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MasonScarbro&&bg_color=001B2E" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=001B2E&langs_count=8&hide=html&show_icons=true" alt="Top Languages" style="width: 50%; height: auto;">
   </div>
 
