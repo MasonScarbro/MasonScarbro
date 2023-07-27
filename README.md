@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center;">
 <h1 align="center">Hi 👋, I'm MasonScarbro</h1>
 <h3 align="center">Mason Scarbro</h3>
 
