@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+<div style="display: flex; flex-wrap: wrap;">
 <h1 align="center">Hi 👋, I'm MasonScarbro</h1>
 <h3 align="center">Mason Scarbro</h3>
 
@@ -30,4 +31,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=MasonScarbro&&bg_color=001B2E" alt="GitHub Stats" style="width: 50%; height: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=001B2E&langs_count=8&hide=html&show_icons=true" alt="Top Languages" style="width: 50%; height: auto;">
 
+</div>
 </div>
