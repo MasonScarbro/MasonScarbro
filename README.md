@@ -5,12 +5,7 @@
 
 Here are some ideas to get you started:
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <h1 align="center">Hi 👋, I'm MasonScarbro</h1>
-    <h3 align="center">Mason Scarbro</h3>
-    <div style="display: flex; justify-content: right; align-items: center; margin: 50px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=001B2E&langs_count=8&hide=html&show_icons=true" alt="Top Languages" style="width: 50%; height: auto;">
-  </div>
+
 
 <p align="center"> </p>
 
@@ -26,12 +21,18 @@ Here are some ideas to get you started:
     <h1 align="center">Hi 👋, I'm MasonScarbro</h1>
     <h3 align="center">Mason Scarbro</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px; width: 100%;">
+<div style="text-align: center;">
+
+  <!-- Your existing content goes here -->
+
+  <div style="margin-top: 20px;">
     <!-- Wrap the stats image inside a div for centering -->
-    <div style="display: flex; justify-content: center; align-items: center;">
+    <div style="display: inline-block;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=001B2E&langs_count=8&hide=html&show_icons=true" alt="Top Languages" style="width: 50%; height: auto;">
     </div>
   </div>
+
+</div>
   
 <p align="center">
 </p>
