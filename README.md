@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <a href="https://github.com/MasonScarbro">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=compact&theme=radical&hide=html" />
   </a>
 </div>
 
