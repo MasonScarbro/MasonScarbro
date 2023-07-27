@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://readme-github-stats.vercel.app/api?username=MasonScarbro&theme=radical&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=001B2E&langs_count=8&hide=html&show_icons=true>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
