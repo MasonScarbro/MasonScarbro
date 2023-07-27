@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; flex-direction: column; align-items: center;">
 <h1 align="center">Hi 👋, I'm MasonScarbro</h1>
 <h3 align="center">Mason Scarbro</h3>
 
