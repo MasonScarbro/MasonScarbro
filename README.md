@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-<!--
+
 **MasonScarbro/MasonScarbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 <div style="display: flex; flex-direction: column; align-items: center;">
     <h1 align="center">Hi 👋, I'm MasonScarbro</h1>
     <h3 align="center">Mason Scarbro</h3>
     <div style="display: flex; justify-content: right; align-items: center; margin: 50px;">
-    <!-- Your GitHub stats or other content goes here -->
-    <img src="https://github-readme-stats.vercel.app/api?username=MasonScarbro&&bg_color=001B2E" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=001B2E&langs_count=8&hide=html&show_icons=true" alt="Top Languages" style="width: 50%; height: auto;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&bg_color=001B2E&langs_count=8&hide=html&show_icons=true" alt="Top Languages" style="width: 50%; height: auto;">
   </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=masonscarbro&label=Profile%20views&color=0e75b6&style=flat" alt="masonscarbro" /> </p>
