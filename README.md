@@ -25,11 +25,11 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-github-stats.vercel.app/api?username=MasonScarbro&theme=radical&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
+  <img src="https://readme-github-stats.vercel.app/api?username=MasonScarbro&theme=synthwave&show_icons=true&count_private=true&title_color=257076&icon_color=257076&show_owner=true"/>
 </div>
 <div align="center">
   <a href="https://github.com/MasonScarbro">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&theme=radical&langs_count=8&hide=html&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&theme=synthwave&langs_count=8&hide=html&show_icons=true">
   </a>
 </div>
 
