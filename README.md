@@ -21,7 +21,7 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
     <h1 align="center">Hi 👋, I'm MasonScarbro</h1>
     <p>
-        I got into coding because I wanted to make video games but I quickly fell in love with writing Web apps, Mods, AI/DataManip and more programs, So I decided to switch my major (2021)! Ever since Ive been doing a ton of coding; but some other hobbies and fascinations I have are Math, and          Storywriting!
+        I got into coding because I wanted to make video games but I quickly fell in love with writing Web apps, Mods, AI/DataManip and more programs, So I decided to switch my major from business to cs (2021)! Ever since Ive been doing a ton of coding; but some other hobbies and fascinations I have are Math, and          Storywriting!
     </p>
     <h3 align="center">Mason Scarbro</h3>
 </div>
