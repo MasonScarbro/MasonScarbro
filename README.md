@@ -44,8 +44,8 @@
 
 
 </div>
-<div align="center">
+<div style="text-align: center;">
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://masonscarbro.github.io/PersonalWebsiteME/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mason-scarbro-127932259)
+<div align="center">[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://masonscarbro.github.io/PersonalWebsiteME/)</div>
+<div align="center">[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mason-scarbro-127932259)</div>
 </div>
