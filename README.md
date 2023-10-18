@@ -44,8 +44,9 @@
 
 
 </div>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masonscarbro&show_icons=true&locale=en" alt="masonscarbro" /></p>
 <div align="center">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masonscarbro&show_icons=true&locale=en" alt="masonscarbro" /></p>
+   
 ## 🔗 Links
 <a href="">[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://masonscarbro.github.io/PersonalWebsiteME/)</a>
 <a href="">[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mason-scarbro-127932259)</a>
