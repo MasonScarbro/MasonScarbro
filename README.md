@@ -14,8 +14,6 @@
 - 👯 I’m looking to collaborate on **Game Development**
 
 - 🤝 I’m looking for help with **Game Development**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masonscarbro&label=Profile%20views&color=0e75b6&style=flat" alt="masonscarbro" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masonscarbro" alt="masonscarbro" /></a> </p>
 
 
 <div style="display: flex; flex-direction: column; align-items: center;">
@@ -44,7 +42,7 @@
 
 
 </div>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masonscarbro&show_icons=true&locale=en" alt="masonscarbro" /></p>
+
 <div align="center">
    
 ## 🔗 Links
