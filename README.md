@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on [WrldBxModdingTool](https://github.com/MasonScarbro/WrldBxModdingTool) && [My Own Website for tutoring/tutorials!](https://github.com/MasonScarbro/CodeRPG-Site)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Language Development**
 
-- 👯 I’m looking to collaborate on **Game Development**
+- 👯 I’m looking to collaborate on **Game Development, Package/Transpiler Development!**
 
-- 🤝 I’m looking for help with **Game Development**
+- 🤝 I’m looking for help with **Game Development, Package/Transpiler Development!**
 
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <h1 align="center">Hi 👋, I'm MasonScarbro</h1>
     <p>
-        I got into coding because I wanted to make video games but I quickly fell in love with writing Web apps, Mods, AI/DataManip and more programs, So I decided to switch my major from business to cs (2021)! Ever since Ive been doing a ton of coding; but some other hobbies and fascinations I have are Math, and          Storywriting!
+        I got into coding because I wanted to make video games but I quickly fell in love with writing Web apps, Mods, AI/DataManip and more programs, So I decided to switch my major from business to cs (2021)! Ever since Ive been doing a ton of coding; but some other hobbies and fascinations I have are Math, and Storywriting!
     </p>
     <h3 align="center">Mason Scarbro</h3>
 </div>
