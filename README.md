@@ -7,7 +7,7 @@
 
 <p align="center"> </p>
 
-- 🔭 I’m currently working on [WrldBxModdingTool](https://github.com/MasonScarbro/WrldBxModdingTool) && [My Own Website for tutoring/tutorials!](https://github.com/MasonScarbro/CodeRPG-Site)
+- 🔭 I’m currently working on A Custom Scripting Language For World Box (Private Repo) 
 
 - 🌱 I’m currently learning **Language Development**
 
