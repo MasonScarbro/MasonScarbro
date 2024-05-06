@@ -32,7 +32,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/MasonScarbro">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&theme=synthwave&langs_count=8&hide=html&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonScarbro&layout=donut-vertical&theme=synthwave&langs_count=8&hide=html&hide=YAML&show_icons=true">
   </a>
 </div>
 
