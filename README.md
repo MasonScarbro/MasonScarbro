@@ -7,7 +7,7 @@
 
 <p align="center"> </p>
 
-- 🔭 I’m currently working on A Custom Scripting Language For World Box (Private Repo) 
+- 🔭 I’m currently working on Zoxl, A Programming language
 
 - 🌱 I’m currently learning **Language Development**
 
