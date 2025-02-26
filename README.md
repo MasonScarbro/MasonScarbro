@@ -50,4 +50,6 @@
 <a href="">[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mason-scarbro-127932259)</a>
 
 </div>
-
+<div>
+    ![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=MASONSCARBRO&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
+</div>
