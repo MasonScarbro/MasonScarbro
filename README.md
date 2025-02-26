@@ -51,5 +51,3 @@
 
 </div>
 
-![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=31f7tchhy3bme7mhib5abldued7a&cover_image=true&theme=default)
-
