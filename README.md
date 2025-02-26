@@ -51,4 +51,4 @@
 
 </div>
 
-![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=50f4a13b18bb4f37aa45830d4e534bf9&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
+![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?64d50612da994036912f339cc9ab535e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
