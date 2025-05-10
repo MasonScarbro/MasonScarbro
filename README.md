@@ -18,10 +18,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <h1 align="center">Hi 👋, I'm MasonScarbro</h1>
-    <p>
-        
-    </p>
-    <h3 align="center">Mason Scarbro</h3>
+    
 </div>
   
 <p align="center">
